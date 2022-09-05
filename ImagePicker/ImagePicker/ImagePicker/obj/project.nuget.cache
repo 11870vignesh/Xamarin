@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "4yYbCX848R3XKL4BEF6RsJzVn1kzVN5XfvjItdDov2bj/1INTOv/Wu/hoZsLVEKvFASOUc8wHZ4QN+Iq6hYj/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\12164\\source\\repos\\ImagePicker\\ImagePicker\\ImagePicker\\ImagePicker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\12164\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\12164\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\12164\\.nuget\\packages\\skiasharp\\2.88.1\\skiasharp.2.88.1.nupkg.sha512",
+    "C:\\Users\\12164\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.1\\skiasharp.nativeassets.macos.2.88.1.nupkg.sha512",
+    "C:\\Users\\12164\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.1\\skiasharp.nativeassets.win32.2.88.1.nupkg.sha512",
+    "C:\\Users\\12164\\.nuget\\packages\\skiasharp.views.forms\\2.88.1\\skiasharp.views.forms.2.88.1.nupkg.sha512",
+    "C:\\Users\\12164\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\12164\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\12164\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\12164\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\12164\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\12164\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\12164\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\12164\\.nuget\\packages\\xamarin.mediagallery\\2.1.1\\xamarin.mediagallery.2.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

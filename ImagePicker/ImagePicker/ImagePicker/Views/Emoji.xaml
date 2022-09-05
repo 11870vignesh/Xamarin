@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:sk="clr-namespace:SkiaSharp.Views.Forms;assembly=SkiaSharp.Views.Forms"
+             x:Class="ImagePicker.Views.Emoji">
+    <ContentPage.Content>
+        <StackLayout Margin="20,20,0,0">
+            <Grid>
+                <Image Source="Emoji.png" HorizontalOptions="Start"></Image>
+                <!--<sk:SKCanvasView x:Name="canvasView" PaintSurface="canvasView_PaintSurface" Margin="70,85,0,0" RotationX="-50" RotationY="60"/>-->
+                <Line Stroke="Red" StrokeThickness="10" StrokeLineCap="Square" x:Name="EmojiLine">
+                </Line>
+                <Label Text="Swipe Left or Right" Grid.Column="1" HorizontalOptions="Center" VerticalOptions="Center" TextColor="Black" FontAttributes="Bold"></Label>
+                <Slider Grid.Column="1" VerticalOptions="CenterAndExpand" Margin="0,40,0,0" Background="Black" x:Name="EmojiSlider" Minimum="0" Maximum="100" ValueChanged="EmojiSlider_ValueChanged"></Slider>
+            </Grid>
+            <!--<Path Aspect="Uniform" Stroke="Black" StrokeThickness="5">
+                <Path.Data>
+                    <PathGeometry>
+                        <PathGeometry.Figures>
+                            <PathFigureCollection>
+                                <PathFigure IsClosed="True" StartPoint="20,200">
+                                    <PathFigure.Segments>
+                                        <PathSegmentCollection>
+                                            <LineSegment Point="200,200"></LineSegment>
+                                            <LineSegment Point="200,60"></LineSegment>
+                                        </PathSegmentCollection>
+                                    </PathFigure.Segments>
+                                </PathFigure>
+                            </PathFigureCollection>
+                        </PathGeometry.Figures>
+                    </PathGeometry>
+                </Path.Data>
+            </Path>-->
+            <!--<Path Stroke="Black">
+                <Path.Data>
+                    <PathGeometry>
+                        <PathGeometry.Figures>
+                            <PathFigureCollection>
+                                <PathFigure StartPoint="10,10">
+                                    <PathFigure.Segments>
+                                        <PathSegmentCollection>
+                                            <QuadraticBezierSegment Point1="200,200"
+                                                        Point2="300,10" />
+                                        </PathSegmentCollection>
+                                    </PathFigure.Segments>
+                                </PathFigure>
+                            </PathFigureCollection>
+                        </PathGeometry.Figures>
+                    </PathGeometry>
+                </Path.Data>
+            </Path>-->
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ImagePicker.Views.ImageMoment">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Start" Margin="0,20,0,0">
+                <ImageButton Source="TakePick.png" Margin="0,0,20,0" BackgroundColor="Transparent" Clicked="ImageButton_Clicked_1"></ImageButton>
+                <ImageButton Source="SelectPick.png" Margin="20,0,0,0" BackgroundColor="Transparent" Clicked="ImageButton_Clicked"></ImageButton>
+            </StackLayout>
+            <StackLayout HorizontalOptions="Fill" Margin="0,30,0,0">
+                <Frame CornerRadius="25" BackgroundColor="White">
+                    <Entry Placeholder="Enter Your Moment" PlaceholderColor="Gray" TextColor="Black" x:Name="Moment" Completed="Moment_Completed"></Entry>
+                </Frame>
+            </StackLayout>
+            <Image VerticalOptions="CenterAndExpand" x:Name="UserImage"></Image>
+            <Button Text="Share" CornerRadius="5" TextTransform="None" Background="Purple" FontSize="20" VerticalOptions="EndAndExpand" Clicked="Button_Clicked"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "wn0wInQcpqgIx+3p9J0jfoFa4yQrxq2DsGUFgiM1oSrkgdV2Yp0Te1+it2WoIN47cyhxcSicN4rP4xs5pgVLwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\12164\\source\\repos\\ImagePicker\\ImagePicker\\ImagePicker.iOS\\ImagePicker.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\12164\\.nuget\\packages\\skiasharp\\2.88.1\\skiasharp.2.88.1.nupkg.sha512",
+    "C:\\Users\\12164\\.nuget\\packages\\skiasharp.nativeassets.ios\\2.88.1\\skiasharp.nativeassets.ios.2.88.1.nupkg.sha512",
+    "C:\\Users\\12164\\.nuget\\packages\\skiasharp.views\\2.88.1\\skiasharp.views.2.88.1.nupkg.sha512",
+    "C:\\Users\\12164\\.nuget\\packages\\skiasharp.views.forms\\2.88.1\\skiasharp.views.forms.2.88.1.nupkg.sha512",
+    "C:\\Users\\12164\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\12164\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\12164\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\12164\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\12164\\.nuget\\packages\\xamarin.mediagallery\\2.1.1\\xamarin.mediagallery.2.1.1.nupkg.sha512",
+    "C:\\Users\\12164\\.nuget\\packages\\xamarin.mediagallery.permision\\2.0.0\\xamarin.mediagallery.permision.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
